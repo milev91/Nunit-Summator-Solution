@@ -1,0 +1,15 @@
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.exe
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.deps.json
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.runtimeconfig.json
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.runtimeconfig.dev.json
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.dll
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\ref\Summator.dll
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\bin\Debug\net5.0\Summator.pdb
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.AssemblyInfoInputs.cache
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.AssemblyInfo.cs
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.csproj.CoreCompileInputs.cache
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.dll
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\ref\Summator.dll
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.pdb
+C:\Users\rumen.m\OneDrive - DraftKings\Desktop\softuni1\Nunit-Summator-Project\Summator\obj\Debug\net5.0\Summator.genruntimeconfig.cache
